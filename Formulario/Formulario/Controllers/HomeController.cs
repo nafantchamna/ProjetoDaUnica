@@ -15,14 +15,14 @@ namespace Formulario.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Pagina em construção.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "O NOSSO CONTATO.";
 
             return View();
         }
